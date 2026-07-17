@@ -37,6 +37,8 @@ This GitHub profile is the home of our public projects, technical experiments, t
 - **Prototypes** - concepts developed through testing and iteration
 - **Tools** - reusable utilities that support technical workflows
 - **Documentation** - notes and guidance for using and understanding our work
+- **Robotics** - creating solutions with robot's
+- **PLC/HMI** - Siemens/Idec/Fanuc/Heidenhain/Weintek/Proface
 
 <img src="./assets/section-03-how-we-engineer.svg" alt="ZII 03 - How we engineer">
 
