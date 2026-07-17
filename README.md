@@ -14,20 +14,26 @@
 
 ---
 
-## About us
+## &#9881; Built for industry
+
+*Practical innovation, shaped by engineering.*
 
 Zwart Industrial Innovations turns technical ideas into practical solutions. We focus on clear engineering, useful experimentation, and technology that works beyond the prototype.
 
 This GitHub profile is the home of our public projects, technical experiments, tools, and documentation.
 
-## What you will find here
+## &#128269; Inside our workshop
+
+*Explore what we build, test, and share.*
 
 - **Projects** - practical software and engineering work
 - **Prototypes** - concepts developed through testing and iteration
 - **Tools** - reusable utilities that support technical workflows
 - **Documentation** - notes and guidance for using and understanding our work
 
-## Our approach
+## &#128736; How we engineer
+
+*From a clear purpose to a dependable result.*
 
 We value solutions that are:
 
@@ -36,11 +42,15 @@ We value solutions that are:
 - Robust enough to use in practice
 - Improved through testing, feedback, and iteration
 
-## Explore our work
+## &#128640; Featured work
+
+*Ideas in motion. Technology in practice.*
 
 Take a look at the pinned repositories below for a selection of current and featured projects. Each active repository contains its own documentation, setup instructions, and contribution guidelines.
 
-## Contact
+## &#129309; Let's build something
+
+*Questions, ideas, or an opportunity to collaborate?*
 
 Have a question about one of our projects or see an opportunity to collaborate?
 
@@ -52,4 +62,5 @@ Have a question about one of our projects or see an opportunity to collaborate?
 <div align="center">
   <sub>Zwart Industrial Innovations</sub>
 </div>
+
 
